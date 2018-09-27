@@ -1,4 +1,4 @@
-a ongoing react TODO test demo for the ultimate separation of Container & Dump
+use create-react-app to create a React demo for the separation of Container & Dump Component.
 
 ## TODO
-* use with create-app
+I don't want to make this demo complicated, thus I keep all my code original(not rely on redux and mobx)
