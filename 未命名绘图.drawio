@@ -16,6 +16,9 @@
         <mxCell id="yNUn69hMunYBQeqswuP1-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="210" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="XFCsPPyfCBdF1VwTUxbA-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="318" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
